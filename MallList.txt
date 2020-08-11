@@ -2,3 +2,5 @@ Korosh Mall
 Kish Mall
 Tabriz Mall
 Tehran Mall
+Kordestan Mall
+Shiraz Mall
